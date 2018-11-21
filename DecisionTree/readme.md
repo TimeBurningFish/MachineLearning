@@ -1,3 +1,3 @@
 # DecisionTree
 * 实验六
-<img src = './tree.jpg'>
+<image src="./tree.jpg"/>
